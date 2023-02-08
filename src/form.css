@@ -63,6 +63,7 @@ input[type="submit"] {
   height: 2em;
   font-size: 1.1rem;
   background-color: #0ccf3f;
+  color: #ffff;
   border-color: #0ccf3f;
   border-radius: 15px;
   min-width: 300px;
